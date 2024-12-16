@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name" : "Grey's Anatomy Quotes",
+    "description": "Generate a random GA quote" ,
+    "version" : "1.0",
+    "action" : {
+        "default_popup": "greys.html",
+        "default_icon" : "mer.png"
+    },
+    "permissions": ["storage"],
+    "icons": {
+        "16": "mer.png",
+        "48": "mer.png",
+        "128": "mer.png"
+    }
+}
+
+
+
